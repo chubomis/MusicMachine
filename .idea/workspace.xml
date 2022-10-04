@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af9097c-69b8-4ef9-9aa2-a652d4d9b89a" name="Changes" comment="" />
+    <list default="true" id="1af9097c-69b8-4ef9-9aa2-a652d4d9b89a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Minecraft.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Piskel (24).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Piskel (26).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/New Piskel (32).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheLab.kv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bassB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bassDrum.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bassDrum1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bassL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bassR1B1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/circle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clearAll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clearB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cowL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dosapp.fon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dragonLogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/final draft.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helpButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/highL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/musicNote.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/musicNote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instruction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menuB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicMachine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/musicNote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pixel.fon" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playMusic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondNote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/snareL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startButton.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stopB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stopMusic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tempoL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgaoem.fon" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
