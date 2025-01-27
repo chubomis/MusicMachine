@@ -13,17 +13,19 @@
 ## Demo
 Coming soon! Stay tuned for a video demonstration of the Music Machine in action.
 
-## Game Screen
+## Main Screen
 
 ![firstScreen](https://github.com/user-attachments/assets/2d0bf521-a263-4f70-8615-ab4ea4f1c0e5)
 
-## Main Screen
+## Game Screen
 
-![firstScreen](https://github.com/user-attachments/assets/247b15ea-db0e-41b7-8fe0-b2fa7c449799)
+![game](https://github.com/user-attachments/assets/6b3946b9-c123-44c0-a7b4-5c724dd823b9)
 
 ## Instructions
 
 ![instructions](https://github.com/user-attachments/assets/76eef5ad-dff0-438d-b942-f18d995622f6)
 
 ## Demo
+
+https://github.com/user-attachments/assets/5a040189-7b1e-4dd1-9e24-6be010452427
 
